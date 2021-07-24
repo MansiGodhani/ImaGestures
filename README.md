@@ -16,7 +16,7 @@ This Image Picker and Gestures app to uses. Also Pick images from gallery and ch
   <li>On Rotation: Rotate the Image View</li>
   <li>On Swipe: Move the Image View by some distance in the swipe direction</li>
   <li>On Pan: Move the Image View based on Pan location</li>
-<ul>
+</ul>
   
 <h2>Elements</h2>
 <p>Here The All element which are used in this app.</p>
